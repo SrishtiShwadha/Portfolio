@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    height: 150px;
+    background-image: linear-gradient(pink,skyblue);
+}
+.mycolor{
+    color: rgb(17, 17, 143);
+}
+.heading{
+   
+    font-weight: 900;
+    font-size: 50px;
+
+}
+.content ul{
+    display: flex;
+    font-size: 25px;
+  
+}
+.content ul li{
+    list-style: none;
+    margin: 5px;
+    font-style: italic;
+    font-weight: bold;
+ 
+
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    
+}
+.firstsection{
+    
+   justify-content: center; 
+    
+}
+.box1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 600px;
+    width: 1450px;
+    border-radius: 50%;
+    background-image: linear-gradient(rgb(245, 190, 90),hotpink);
+}
+.hellocolor{
+    color: rgb(33, 29, 29);
+}
+.text1{
+    margin-left: 200px;
+    font-size: 40px ;
+    color: purple;
+    font-weight: bold;
+}
+
+.text2{
+   font-size: 20px;
+   font-weight: bold;
+   margin-left: 370px;
+}
+.box2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 600px;
+    width: 1450px;
+    border-radius: 50%;
+    background-image: linear-gradient(rgb(245, 190, 90),hotpink);
+}
+.secondsection{
+    display: flex;
+}
+.name{
+    color:purple;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.aboutme{
+   height: 200px;
+   width: 300px;
+   margin-left: 200px;
+}
+.aboutsection{
+    font-size: 15px;
+    font-weight:bold;
+}
+.about{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: initial;
+    color: rgb(48, 23, 48);
+}
+.box3{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 600px;
+    width: 1450px;
+    border-radius: 50%;
+    background-image: linear-gradient(rgb(245, 190, 90),hotpink);
+}
+.thirdsection{
+    display: flex;
+}
+.photo3{
+    margin-left: 400px;
+}
+.myskills{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(46, 23, 46);
+}
